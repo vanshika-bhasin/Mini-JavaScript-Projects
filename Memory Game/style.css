@@ -1,0 +1,16 @@
+  body{
+      padding: 10% 35%;
+  }
+  h3{
+      font-family: cursive;
+      color: rgb(202, 85, 7);
+  }
+  h3>span{
+      color: rgb(51, 187, 187);
+  }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
