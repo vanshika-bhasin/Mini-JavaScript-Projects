@@ -1,1 +1,1 @@
-### Some mini projects using JavaScript
+### Some logic-based games made using JavaScript
